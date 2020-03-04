@@ -1,0 +1,9 @@
+,Dollar (1),Peso (6),Pound (6),Euro (1),Franc (3), Yawn (3)
+Dollar (1),0,5,0,0,5,0
+Peso (6),0,0,5,0,0,0
+Pound (6),0,0,0,5,0,0
+Euro (1),0,0,0,0,0,0
+Franc (3),0,0,0,0,0,5
+Yawn (3),0,0,0,4,0,0
+,,,,,,
+What is the shortest path from Dollars to Euros?,,,,,,

@@ -1,0 +1,19 @@
+
+What devices do you need to manage (choose one or enter 0 to exit): phone, cluster
+Your cluster architecture is Backward compatibile, its purpose is Anything you want, and lots of it!
+What is the version number of your operating system?
+Your OS version number is: 1231
+
+What devices do you need to manage (choose one or enter 0 to exit): phone, cluster
+What is your IMEI?
+Your phone architecture is Reduced Instruction Set, its purpose is Uploading your converstations to google, and it follows you around!
+What is the version number of your operating system?
+Your OS version number is: 6234
+What is your phone number?
+That was not a valid phone number, please try again.
+Your phone number is +1(573)-465-1111
+Would you like to encrypt your phone (type yes or no)?
+Your device is now securely encrypted
+
+What devices do you need to manage (choose one or enter 0 to exit): phone, cluster
+Exiting now

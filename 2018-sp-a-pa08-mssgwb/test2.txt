@@ -1,0 +1,12 @@
+Matthew Stroble-_
+
+
+
+
+Finding Key 5: 1
+[(key9: 20), (key6: 6), (key3: 6), (aoeu: 2), (key8: 20), (key5: 37), (key2: 4), (key7: 20), (key4: 6), (key10: 20), (key22: 5)]
+Data Size: 11
+Count: 1
+
+Map obj 2
+[(key9: 20), (key6: 6), (key3: 6), (aoeu: 2), (key8: 20), (key5: 37), (key2: 4), (key7: 20), (key4: 6), (key10: 20), (key22: 5)]
